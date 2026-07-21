@@ -39,7 +39,8 @@ An interactive Excel dashboard with:
 - Customer satisfaction analysis by duration bucket
 - Slicers and filters for interactive exploration
 
-[Screenshot of dashboard]
+<img width="1318" height="666" alt="Dashboard" src="https://github.com/user-attachments/assets/17cf9b3c-3c41-4677-b4b9-346e6a29f239" />
+
 
 ## A Note on Methodology
 It would have been easy to assume shorter calls drive higher satisfaction and build the dashboard around confirming that. Testing it directly against the data — and finding essentially no correlation — was a more honest result, and points toward call quality and resolution as more likely drivers of satisfaction than raw call length.
